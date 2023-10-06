@@ -1,8 +1,9 @@
 # BACKEND - Proyecto final de Bootcamp
+![Banner MdEvents](https://github.com/JuandaMT/Backend-MdEvents/assets/130000511/be892a69-5285-4207-8ed4-1359cb174502)
+
 
 <a name="top"></a>
 
-<div style="text-align:center"><img src="assets/images/desafio-intro.png" width="300" height="300"></div>
 
  <h1 align="center" style="color:red">Desafío de tripulaciones</h1>
 
